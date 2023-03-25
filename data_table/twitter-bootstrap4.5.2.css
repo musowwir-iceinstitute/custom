@@ -1706,7 +1706,7 @@ pre code {
 
 .table-hover tbody tr:hover {
   color: #212529;
-  background-color: rgba(0, 0, 0, 0.075);
+  background-color: rgba(238, 21, 34, 0.075);
 }
 
 .table-primary,
@@ -2543,8 +2543,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #BE0E1A;
+  border-color: #BE0E1A;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -3916,7 +3916,7 @@ input[type="button"].btn-block {
 .custom-select:focus {
   border-color: #80bdff;
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(238, 21, 34, 0.25);
 }
 
 .custom-select:focus::-ms-value {
@@ -5012,7 +5012,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
   z-index: 2;
-  color: #0056b3;
+  color: #ee1522;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
